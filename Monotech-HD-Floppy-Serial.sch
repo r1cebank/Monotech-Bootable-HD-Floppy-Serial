@@ -2030,7 +2030,7 @@ U 1 1 5C327744
 P 7300 2300
 F 0 "SW1" H 7300 2967 50  0000 C CNN
 F 1 "Serial Port Config" H 7300 2876 50  0000 C CNN
-F 2 "Buttons_Switches_THT:SW_DIP_x8_W7.62mm_Slide_LowProfile" H 7300 2300 50  0001 C CNN
+F 2 "Buttons_Switches_THT:SW_DIP_x8_W7.62mm_Slide" H 7300 2300 50  0001 C CNN
 F 3 "" H 7300 2300 50  0001 C CNN
 	1    7300 2300
 	1    0    0    -1  
@@ -2041,7 +2041,7 @@ U 1 1 5C78CB59
 P 1850 5500
 F 0 "SW2" H 1850 5150 50  0000 C CNN
 F 1 "Boot ROM Address" H 1850 5250 50  0000 C CNN
-F 2 "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide_LowProfile" H 1850 5500 50  0001 C CNN
+F 2 "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide" H 1850 5500 50  0001 C CNN
 F 3 "" H 1850 5500 50  0001 C CNN
 	1    1850 5500
 	1    0    0    -1  
